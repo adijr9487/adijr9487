@@ -1,6 +1,6 @@
 ## Hello World!
 
-My name is **Aditya**, I'm 22 years old and I'm a student of **Computer Science** at Indian Institude of Information Technology Gwalior.
+My name is **Aditya**, I'm 23 years old and I'm a graduate of **Computer Science** at Indian Institude of Information Technology Gwalior.
 I am completely passionate about frontend development.
 
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
